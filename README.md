@@ -21,7 +21,10 @@ En la carpeta *Documentacion* se encuentran aquellos archivos realizados a lo la
 <p align="center"><img width=40% src="https://github.com/Davidguzley/Movilidad-Chile/blob/main/Media/CRISP-DM_Process_Diagram.png"></p>
 
 En la carpeta de *Codigo*, se encontraran los codigos empleados para la solución del reto. Descritos de una mejor manera en el documento *Data Preparation* del punto anterior.
-<p align="center"><img width=80% src="https://github.com/Davidguzley/Movilidad-Chile/blob/main/Media/Diagrama Jupyters 2.png"></p>
+<p align="center"><img width=80% src="https://github.com/Davidguzley/Movilidad-Chile/blob/main/Media/Diagrama Jupyters 3.png"></p>
+
+En la carpeta de *Codigo/Modeling*, se encontraran los codigos utilizados para llegar al dataset utilizado para entrenar el modelo. Descritos de una mejor manera en el documento *Data Preparation*, en el apartado de *Modelado*.
+<p align="center"><img width=80% src="https://github.com/Davidguzley/Movilidad-Chile/blob/main/Media/Diagrama Modelado.png"></p>
 
 ## Resultados
 * Visualización de una matriz de viajes entre comunas a través de un Heatmap en Tableau
