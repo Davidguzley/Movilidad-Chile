@@ -27,8 +27,10 @@ En la carpeta de *Codigo/Modeling*, se encontraran los codigos utilizados para l
 <p align="center"><img width=80% src="https://github.com/Davidguzley/Movilidad-Chile/blob/main/Media/Diagrama Modelado.png"></p>
 
 ## Resultados
-* Visualización de una matriz de viajes entre comunas a través de un Heatmap en Tableau
-* Modelos de predicción binaria logística
+### Visualización de una matriz de viajes entre comunas a través de un Heatmap en Tableau
+<p align="center"><img width=80% src="https://github.com/Davidguzley/Movilidad-Chile/blob/main/Media/Heatmap.jpg"></p>
+
+### Modelos de predicción binaria logística
 
 ## Licencia
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
