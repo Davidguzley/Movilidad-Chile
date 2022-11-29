@@ -28,7 +28,7 @@ En la carpeta de *Codigo/Modeling*, se encontraran los codigos utilizados para l
 
 ## Resultados
 ### Visualización de una matriz de viajes entre comunas a través de un Heatmap en Tableau
-<p align="center"><img width=80% src="https://github.com/Davidguzley/Movilidad-Chile/blob/main/Media/Heatmap.jpg"></p>
+<p align="center"><img width=100% src="https://github.com/Davidguzley/Movilidad-Chile/blob/main/Media/Heatmap.jpg"></p>
 
 ### Modelos de predicción binaria logística
 
